@@ -15,6 +15,6 @@ Test OAuth with React Native
 
 `react-native run-android`
 
-You'll need Android AVD running as well. So in another termina run
+You'll need Android AVD running as well. So in another terminal run
 
 `android avd`
