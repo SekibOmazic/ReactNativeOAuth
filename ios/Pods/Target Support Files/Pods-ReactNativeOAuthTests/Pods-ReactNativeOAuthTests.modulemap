@@ -1,0 +1,6 @@
+framework module Pods_ReactNativeOAuthTests {
+  umbrella header "Pods-ReactNativeOAuthTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
