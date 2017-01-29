@@ -18,3 +18,7 @@ Test OAuth with React Native
 You'll need Android AVD running as well. So in another terminal run
 
 `android avd`
+
+## Current issue
+
+Getting wrong `user_id` (`uuid`) under iOS. See [here](https://github.com/fullstackreact/react-native-oauth/issues/60)
